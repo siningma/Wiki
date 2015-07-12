@@ -20,7 +20,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 4. Now test both node and npm commands working
 ```
-node - v
+node -v
 v0.10.25
 npm -v
 1.3.10
